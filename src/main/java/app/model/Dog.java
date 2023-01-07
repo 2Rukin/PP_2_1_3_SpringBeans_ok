@@ -1,4 +1,4 @@
-package app.config;
+package app.model;
 
 import app.model.Animal;
 import org.springframework.stereotype.Component;
